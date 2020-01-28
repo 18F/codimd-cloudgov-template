@@ -69,7 +69,7 @@
     "exports-loader": "~0.7.0",
     "expose-loader": "~0.7.5",
     "express": "~4.17.1",
-    "express-session": "~1.16.2",
+    "express-session": "~1.17.0",
     "file-loader": "~2.0.0",
     "file-saver": "~2.0.2",
     "flowchart.js": "~1.12.2",
