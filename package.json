@@ -181,7 +181,7 @@
     "script-loader": "~0.7.2",
     "select2": "~3.5.2-browserify",
     "sinon": "~7.3.2",
-    "socket.io-client": "~2.2.0",
+    "socket.io-client": "~2.3.0",
     "spin.js": "~4.0.0",
     "standard": "~13.1.0",
     "store": "~2.0.12",
