@@ -191,7 +191,7 @@
     "turndown": "~5.0.3",
     "typo-js": "^1.0.3",
     "uglifyjs-webpack-plugin": "~1.2.7",
-    "url-loader": "~1.0.1",
+    "url-loader": "~4.1.0",
     "vega": "~5.9.1",
     "vega-embed": "~6.2.2",
     "vega-lite": "~4.4.0",
