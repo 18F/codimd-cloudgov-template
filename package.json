@@ -129,7 +129,7 @@
     "ejs-loader": "~0.3.1",
     "exports-loader": "~0.7.0",
     "expose-loader": "~0.7.5",
-    "file-loader": "~2.0.0",
+    "file-loader": "~6.0.0",
     "file-saver": "~2.0.2",
     "flowchart.js": "~1.12.2",
     "fork-awesome": "~1.1.7",
