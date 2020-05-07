@@ -150,7 +150,7 @@
     "keymaster": "~1.6.2",
     "leaflet": "~1.6.0",
     "less": "~3.9.0",
-    "less-loader": "~4.1.0",
+    "less-loader": "~6.1.0",
     "list.js": "~1.5.0",
     "markdown-it-abbr": "~1.0.4",
     "markdown-it-container": "~2.0.0",
